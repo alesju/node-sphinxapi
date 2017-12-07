@@ -1,6 +1,6 @@
 {
   "name": "sphinxapi",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
   "contributors": [
     {
@@ -26,11 +26,11 @@
     "sphinx",
     "search"
   ],
-  "homepage": "http://github.com/Inist-CNRS/node-sphinxapi",
+  "homepage": "http://github.com/alesju/node-sphinxapi",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Inist-CNRS/node-sphinxapi.git"
+    "url": "https://github.com/alesju/node-sphinxapi.git"
   },
   "dependencies": {
     "bufferpack": ">=0.0.6",
